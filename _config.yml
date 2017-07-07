@@ -1,0 +1,26 @@
+# auto: true
+
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+permalink: /:title
+encoding: UTF-8
+plugins: [jekyll-paginate]
+
+
+title: JackZhang234740898
+url: http://jackzhang.github.io
+feed: /atom.xml
+author_info: <a href="http://jackzhang.github.io/">jackzhang</a>
+
+myblog:
+  gavatar: images/2.jpg
+  gpname: jackzhang
+  github: https://github.com/Jack234740898
+  linkedin: https://github.com/Jack234740898
+  email: mailto:234740898@qq.com
+  coverimgs: []
+  postbgimg: []
+
+categories: [python, books]
+port: 4001
